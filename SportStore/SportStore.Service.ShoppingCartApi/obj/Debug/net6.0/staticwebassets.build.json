@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gs0dPTBbk7XSft63J8fKRQ0032jXx71nhWZ/eGZjWEY=",
+  "Source": "SportStore.Service.ShoppingCartApi",
+  "BasePath": "_content/SportStore.Service.ShoppingCartApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
